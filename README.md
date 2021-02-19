@@ -16,10 +16,12 @@ Smart Doorbell using Raspberry Pi 4B and Telegram Bot
 Use python 3 latest version.
 * fswebcam
 > To use USB webcam for clicking pictures. Already isntalled in Raspberry Pi OS. If not present, follow the steps given here : **[https://www.raspberrypi.org/documentation/usage/webcams/](https://www.raspberrypi.org/documentation/usage/webcams/)**
+
 * Telepot
-> For telegram bot
-First install pip if not installed : sudo apt-get install python-pip
-**To install** : sudo pip install telepot
+> For telegram bot</br>
+First install pip if not installed : **`sudo apt-get install python-pip`**
+**To install** : **`sudo pip install telepot`**
+
 * OS
 > For saving images and sotring
 * Time

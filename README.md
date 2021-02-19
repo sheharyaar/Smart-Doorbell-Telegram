@@ -16,8 +16,8 @@ Smart Doorbell using Raspberry Pi 4B and Telegram Bot
 Use python 3 latest.
 * Telepot
 > For telegram bot
-> First install pip if not installed : sudo apt-get install python-pip
-> **To install** : sudo pip install telepot
+First install pip if not installed : sudo apt-get install python-pip
+**To install** : sudo pip install telepot
 * OS
 > For saving images and sotring
 * Time

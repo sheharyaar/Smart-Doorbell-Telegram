@@ -19,8 +19,8 @@ Use python 3 latest version.
 
 * Telepot
 > For telegram bot</br>
-First install pip if not installed : **`sudo apt-get install python-pip`**
-**To install** : **`sudo pip install telepot`**
+First install pip if not installed : **`sudo apt-get install python-pip`**</br>
+**To install telepot** : **`sudo pip install telepot`**
 
 * OS
 > For saving images and sotring

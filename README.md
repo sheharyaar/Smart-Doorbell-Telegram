@@ -36,9 +36,9 @@ First install pip if not installed : **`sudo apt-get install python-pip`**</br>
 There are two variables : `chat_id` and `bot token` which you have to get and paste it in the python file import the import lines. You should first create your Bot using BotFather. You can look at any tutorial available on Google.
 
 ## To get Chat_id:
-<img src="https://github.com/sheharyaar/Smart-Doorbell-Telegram/chatID1.png" width="100" height="200">
-<img src="https://github.com/sheharyaar/Smart-Doorbell-Telegram/chatID2.png" width="100" height="200">
-<img src="https://github.com/sheharyaar/Smart-Doorbell-Telegram/chatID3.png" width="100" height="200">
+<img src="chatID1.png" width="400" height="600">
+<img src="chatID2.png" width="400" height="600">
+<img src="chatID3.jpg" width="400" height="600">
 
 ## To get Bot Token:
 

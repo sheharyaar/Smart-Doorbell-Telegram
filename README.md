@@ -32,6 +32,9 @@ First install pip if not installed : **`sudo apt-get install python-pip`**</br>
 * RPi.GPIO
 > For GPIO functions
 
+# Circuit for the Doorbell
+![](circuit.jpg)
+
 # Telepot Notes:
 There are two variables : `chat_id` and `bot token` which you have to get and paste it in the python file import the import lines. You should first create your Bot using BotFather. You can look at any tutorial available on Google.
 

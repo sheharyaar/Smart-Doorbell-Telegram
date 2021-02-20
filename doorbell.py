@@ -17,8 +17,8 @@ buzzer = 23
 button = 27
 buzzTime = 1
 #Setting up Telepot
-chat_id = '714201444'
-bot = telepot.Bot('1624782330:AAEsSFAxCSrQl7QBhnrvF1RRtEp9lejKn68')
+chat_id = '#Your Chat ID here'
+bot = telepot.Bot('#Your BOT Token here')
 
 # Function in initialise GPIO
 def init():

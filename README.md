@@ -44,3 +44,6 @@ There are two variables : `chat_id` and `bot token` which you have to get and pa
 ## To get Bot Token:
 <img src="botToken1.png" width="220" height="400"> <img src="botToken2.png" width="220" height="400"> <img src="botToken3.png" width="220" height="400"> <img src="botToken4.png" width="220" height="400"> <img src="botToken5.png" width="220" height="400"> <img src="botToken6.jpg" width="220" height="400">
 
+# License
+ GNU GENERAL PUBLIC LICENSE
+ Version 3, 29 June 2007

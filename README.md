@@ -3,6 +3,7 @@ Smart Doorbell using Raspberry Pi 4B and Telegram Bot
 
 # Tutorial for DIY
 > **Medium** : [Raspberry Pi Doorbell with Telegram BOT — Part 1](https://lagnos.medium.com/raspberry-pi-doorbell-with-telegram-bot-part-1-fa75d747524d)
+> **Medium** : [Raspberry Pi Doorbell with Telegram BOT — Part 2](https://lagnos.medium.com/raspberry-pi-doorbell-with-telegram-bot-part-2-dbaf633feda6)
 
 # Features Available
 * Click picture and Send the image on Telegram using BOT

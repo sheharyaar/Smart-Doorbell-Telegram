@@ -31,3 +31,14 @@ First install pip if not installed : **`sudo apt-get install python-pip`**</br>
 > For multithreading
 * RPi.GPIO
 > For GPIO functions
+
+# Telepot Notes:
+There are two variables : `chat_id` and `bot token` which you have to get and paste it in the python file import the import lines. You should first create your Bot using BotFather. You can look at any tutorial available on Google.
+
+## To get Chat_id:
+![]chatID1.png
+![]chatID2.png
+![]chatID3.jpg
+
+## To get Bot Token:
+

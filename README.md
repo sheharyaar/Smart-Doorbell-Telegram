@@ -9,8 +9,9 @@ Smart Doorbell using Raspberry Pi 4B and Telegram Bot
 * Images are saved on Pi and directories are saved on basis of Date and Time
 
 # Features to add
-- [ ] Get Image and Time data directly from Telegram Bot
+- [x] Get Image and Time data directly from Telegram Bot
 - [ ] Integrate AI / OpenCV for face detection
+- [ ] After AI integration migrate project from Telegram Bot to an Android app or Cross platform app for Video and Voice integrations to the doorbell
 
 # Required Modules
 Use python 3 latest version.

@@ -2,15 +2,16 @@
 Smart Doorbell using Raspberry Pi 4B and Telegram Bot
 
 # Tutorial for DIY
-> **Medium** : [Part 1](https://lagnos.medium.com/raspberry-pi-doorbell-with-telegram-bot-part-1-fa75d747524d)
+> **Medium** : [Raspberry Pi Doorbell with Telegram BOT — Part 1](https://lagnos.medium.com/raspberry-pi-doorbell-with-telegram-bot-part-1-fa75d747524d)
 
 # Features Available
 * Click picture and Send the image on Telegram using BOT
 * Images are saved on Pi and directories are saved on basis of Date and Time
 
 # Features to add
-- [ ] Get Image and Time data directly from Telegram Bot
+- [x] Get Image and Time data directly from Telegram Bot
 - [ ] Integrate AI / OpenCV for face detection
+- [ ] After AI integration migrate project from Telegram Bot to an Android app or Cross platform app for Video and Voice integrations to the doorbell
 
 # Required Modules
 Use python 3 latest version.
